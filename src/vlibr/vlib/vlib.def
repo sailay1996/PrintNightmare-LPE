@@ -1,0 +1,5 @@
+LIBRARY Ualapi 
+
+EXPORTS
+BindMe PRIVATE
+
