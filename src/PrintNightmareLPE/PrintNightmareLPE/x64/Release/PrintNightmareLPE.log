@@ -1,0 +1,7 @@
+﻿  PrintNightmareLPE.cpp
+E:\workspace\repos\PrintNightmareLPE\PrintNightmareLPE\PrintNightmareLPE.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PrintNightmareLPE.vcxproj -> E:\workspace\repos\PrintNightmareLPE\x64\Release\PrintNightmareLPE.exe

@@ -1,0 +1,2 @@
+E:\workspace\repos\PrintNightmareLPE\PrintNightmareLPE\Debug\PrintNightmareLPE.exe
+E:\workspace\repos\PrintNightmareLPE\PrintNightmareLPE\Debug\PrintNightmareLPE.pdb
